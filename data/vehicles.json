@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ferrari",
+        "type": "Car",
+        "price": "6000000",
+        "image": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/5d35eacaf1176b0008974b54\/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+        "name": "Gixxer",
+        "type": "Bike",
+        "price": "250000",
+        "image": "https:\/\/cdn.bikedekho.com\/processedimages\/suzuki\/2019-gixxer\/494X300\/2019-gixxer63e5f65b5d876.jpg"
+    }
+]
